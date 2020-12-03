@@ -1,0 +1,32 @@
+[
+  {
+    "type": "smallCloud",
+    "width": 60,
+    "height": 40,
+    "position": {
+      "x": [250],
+      "y": [50]
+    }
+  },
+  {
+    "type": "largeCloud",
+    "width": 48,
+    "height": 16,
+    "position": {
+      "x": [20, 700],
+      "y": [200, 300]
+    }
+  },
+  {
+    "type": "block",
+    "width": 20,
+    "height": 20,
+    "position": {
+      "x": [150, 260, 300],
+      "y": [180, 180, 180]
+    }
+  }
+]
+
+
+  

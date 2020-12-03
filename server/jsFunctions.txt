@@ -1,0 +1,59 @@
+placeObstacles() 
+{
+	//get coord from json
+	//place it
+}
+movingMario()
+{
+	//move acc to key press events
+	//up,left,right
+	//right movement - update score
+}
+timerFunction()
+{
+	//call when starts and counting down
+	//when zero the game will stop
+}
+killMonster()
+{
+	//x coord same
+	{
+		//die -> y coord same 
+		//kill -> y coord different	
+	}
+	//update score(10)
+	//remove monster
+}
+moveMushroom()
+{
+	reaching the end disappear
+}
+hittingQuestionBlock()
+{
+	//change the block image
+	//get coins(1) or mushrooms(10)
+}
+
+hittingBrickBlock()
+{
+	//remove it
+}
+endGame()
+{
+	//reach the pipe
+}
+lifeFunction()
+{
+	//reset it 
+}
+pauseAndResume()
+{
+	
+}
+audioSoundFunction(action)
+{
+	sounds[action].wav
+	//give audio to game. -> main, kills, hit blocks
+	// M to mute sound
+}
+
