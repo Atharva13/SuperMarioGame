@@ -1,6 +1,12 @@
 # SuperMarioGame
 
-Steps to run
+### Technologies used 
+
+- HTML
+- CSS
+- Javascript
+
+### Steps to run
 
 - Navigate to server folder
 - Open terminal and type "**node service.js**"
